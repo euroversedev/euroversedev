@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=euroversedev)](https://solved.ac/euroversedev/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euroversedev)](https://github.com/euroversedev/github-readme-stats)
+
+
+
+
 <!--
 **euroversedev/euroversedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
