@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=euroversedev)](https://solved.ac/euroversedev/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=euroversedev)](https://solved.ac/euroversedev/) -->
 
 
 
